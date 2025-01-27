@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    font-size: 100%;
+
+    font: normal;
+}
+
+ol, ul  {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body{
+font-family: "Cabin", sans-serif; /* Aplica a fonte importada */
+color: #000000; /* Define a cor do texto como preto */
+background-color: #90DEEE; /* Define o fundo da página como azul escuro */
+display: flex;
+}
+
+header{
+background-color: #F8AF23;
+position: absolute;
+top:0;
+left:0;
+width: 100%;
+padding: 20px 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+nav{
+background-color: #F8AF23;
+position: absolute;
+top:0;
+left:0;
+width: 100%;
+padding: 20px 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+nav img{
+flex: content;
+width: 100px!important;
+height: 100px!important;
+}
+
+main{
+    top:0;
+    left:0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    section {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    img .rolagem{
+    flex: content;
+    width: 800px!important;
+    height: 600px!important;
+    align-items: center;
+    }
+    
+    aside{
+    background-color: #f8ae2387;
+    }
+    
+    img aside{
+    flex: content;
+    width: 100px;
+    height: 100px;
+    }
