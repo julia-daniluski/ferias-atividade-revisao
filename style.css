@@ -120,7 +120,7 @@ section {
     background-size: cover; /* Cobre todo o espaço disponível */
 }
 
-.sonic h4 {
+h4 {
     text-align: center;
     margin: 10px 0; /* Adiciona um espaçamento ao redor do título */
 }
@@ -139,7 +139,7 @@ section {
     background-size: cover; /* Cobre todo o espaço disponível */
 }
 
-.trabalho h5 {
+h5 {
     text-align: center;
     margin: 10px 0; /* Adiciona um espaçamento ao redor do título */
 }
@@ -150,7 +150,7 @@ section {
     align-items: center; /* Centraliza os elementos no eixo horizontal */
 }
 
-.viagem h2 {
+h2, h3, h4, h5 {
     text-align: center;
     margin: 10px 0; /* Adiciona um espaçamento ao redor do título */
 }
