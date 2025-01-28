@@ -1,6 +1,8 @@
-# ferias
+## FÉRIAS
 
- Neste repositório estará o código do projeto para revisão contando sobre minhas férias de 2024 para 2025:
+ Neste repositório estará o código do projeto para revisão contando sobre minhas férias de 2024 para 2025. A primeria parte do trabalho é para fazermos o html e o CSS da página.
+<br>
+Você pode ver uma prévia a seguir:
 <br>
 
 ![Captura de tela 2025-01-28 105115](https://github.com/user-attachments/assets/c84f55e8-d01a-439c-a323-07cf6c5badeb)
